@@ -1,3 +1,3 @@
 # Fibonacci-Guessing-Game
 
-This Game provides Numbers to guess and tell that you are correct or not
+This Game provides Numbers to guess and tell that you are correct or not...
